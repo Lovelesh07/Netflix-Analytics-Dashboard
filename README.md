@@ -25,7 +25,7 @@ Interactive Filters: Filter data by genres and countries for customized insights
 
 Dataset
 
-Source: Netflix Movies and TV Shows Dataset
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Description: The dataset includes information about Netflix's movies and TV shows, such as title, type, genre, country, release year, duration, and rating.
 
@@ -63,22 +63,6 @@ How to Use the Dashboard
 
 
 3. Explore the interactive visuals and insights.
-
-
-
-
----
-
-Repository Files
-
-Netflix_Analytics_Dashboard.pbix: The Power BI dashboard file.
-
-Dataset.csv: Netflix dataset used for analysis (if permitted to share).
-
-README.md: Project description.
-
-Screenshots/: Folder containing dashboard preview images.
-
 
 
 ---
